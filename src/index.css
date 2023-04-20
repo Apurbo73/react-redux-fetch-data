@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card-design{
+  background-color: teal;
+  color: white;
+  height:110px;
+  margin:5px;
+}
+
+.card-design:hover {
+  background-color: rgb(1, 30, 37);
+  transition: .5s;
+}
